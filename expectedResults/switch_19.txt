@@ -1,0 +1,6 @@
+dom(_607262,[19])
+fact(light)
+nhead(night)
+nhead(sleep)
+unsat_constraint(5,greater(7,_607262))
+unsat_constraint(6,greater(_607262,21))
